@@ -4,7 +4,7 @@
 
     <test name="SampleTest" >
         <classes>
-            <class name="ioSampleTest" />
+            <class name="IsinOlsunTest" />
         </classes>
     </test>
 
